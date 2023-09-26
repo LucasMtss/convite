@@ -16,7 +16,7 @@ export const Content = styled.div`
 `
 
 export const Frame = styled.div`
-    border: solid 2px #446693;
+    border: solid 3px #446693;
     width: 100%;
     height: 100%;
     display: flex;
