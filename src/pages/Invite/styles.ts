@@ -30,10 +30,19 @@ export const Title = styled.h1`
     font-size: 76px;
     margin: 0;
     margin-top: 16px;
+    text-align: center;
+
+    @media (max-width: 992px){
+        font-size: 56px;
+    }
 `
 
 export const Divider = styled.img`
     width: 80%;
+
+    @media (max-width: 992px){
+        width: 95%;
+    }
 `
 
 export const Subtitle = styled.p`
@@ -52,6 +61,10 @@ export const Subtitle = styled.p`
 export const DateImage = styled.img`
     width: 80%;
     max-width: 600px;
+
+    @media (max-width: 992px){
+        width: 95%;
+    }
 `
 
 export const Ilustration = styled.img`
