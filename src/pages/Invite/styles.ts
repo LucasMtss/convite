@@ -103,6 +103,11 @@ export const GiftsListButton = styled.button`
     transition: all 0.2s;
     animation: ${floatAnimation} 2s infinite;
 
+    @media (max-width: 400px){
+        width: 95%;
+        font-size: 22px;
+    }
+
     &:hover{
         transform: scale(1.1);
         animation: none;
