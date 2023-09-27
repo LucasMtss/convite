@@ -21,7 +21,7 @@ function Invite() {
     <Container>
       <Content>
         <Frame>
-          <Title>Beatriz & Lucas</Title>
+          <Title>Beatriz e Lucas</Title>
           <Ilustration src={ilustration} />
           <Divider src={dividerImage}/>
           <Subtitle>Com a bênção de Deus e de seus pais, nós convidamos <strong>{name}</strong> para a celebração de nosso casamento</Subtitle>

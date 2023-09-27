@@ -25,15 +25,19 @@ export const Frame = styled.div`
 `
 
 export const Title = styled.h1`
-    font-family: 'Allison', cursive;
+    font-family: 'Qwigley', cursive;
     color: #545454;
-    font-size: 88px;
+    font-size: 99px;
     margin: 0;
     margin-top: 16px;
     text-align: center;
 
     @media (max-width: 992px){
-        font-size: 64px;
+        font-size: 76px;
+    }
+
+    @media (max-width: 560px){
+        font-size: 56px;
     }
 `
 
