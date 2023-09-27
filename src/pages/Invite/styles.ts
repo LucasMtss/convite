@@ -26,7 +26,7 @@ export const Frame = styled.div`
 
 export const Title = styled.h1`
     font-family: 'Qwigley', cursive;
-    color: #545454;
+    color: #8F6C93;
     font-size: 99px;
     margin: 0;
     margin-top: 16px;
