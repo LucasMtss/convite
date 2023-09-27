@@ -25,15 +25,15 @@ export const Frame = styled.div`
 `
 
 export const Title = styled.h1`
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Allison', cursive;
     color: #545454;
-    font-size: 76px;
+    font-size: 88px;
     margin: 0;
     margin-top: 16px;
     text-align: center;
 
     @media (max-width: 992px){
-        font-size: 56px;
+        font-size: 64px;
     }
 `
 
