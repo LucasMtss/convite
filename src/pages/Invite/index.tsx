@@ -21,8 +21,7 @@ function Invite() {
     <Container>
       <Content>
         <Frame>
-          <Title>Beatriz e Lucas</Title>
-          <Ilustration src={ilustration} />
+           <Title>Beatriz & Lucas</Title>
           <Divider src={dividerImage}/>
           <Subtitle>Com a bênção de Deus e de nossos pais, nós convidamos <strong>{name}</strong> para a celebração de nosso casamento</Subtitle>
           <DateImage src={dateImage} />
@@ -33,6 +32,7 @@ function Invite() {
           <Subtitle>Caso queira ajudar com a nossa lista de presentes, é só acessá-la clicando no botão abaixo.  </Subtitle>
           <SmallText>(OBS: Os presentes são virtuais, então se você nos presentear com uma sanduicheira por exemplo, iremos receber o dinheiro, e não o produto)</SmallText>
           <GiftsListButton onClick={() => window.open('https://site.lejour.com.br/lista-de-presentes/lucasebeatriz', '_blank')}>Lista de presentes</GiftsListButton>
+          <Ilustration src={ilustration} />
         </Frame>
       </Content>
     </Container>
