@@ -14,7 +14,7 @@ function Home() {
           <Divider src={dividerImage}/>
           <Subtitle>Com a bênção de Deus e de nossos pais, nós convidamos você(s) para a celebração de nosso casamento</Subtitle>
           <DateImage src={dateImage} />
-          <Subtitle>Local: <a  target="_blank" href='https://www.google.com/maps/dir//igreja+da+piedade+barbacena/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xa2206ada5b42fb:0x5af4b8bc58e69e36?sa=X&ved=2ahUKEwi18tCepcmBAxUEr5UCHU2ACpgQ9Rd6BAhUEAA&ved=2ahUKEwi18tCepcmBAxUEr5UCHU2ACpgQ9Rd6BAhnEAQ'>Igreja da Piedade - R. Lima Duarte, 39 - Centro, Barbacena - MG </a></Subtitle>
+          <Subtitle>Local: <a  target="_blank" href='https://www.google.com/maps/dir//igreja+da+piedade+barbacena/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xa2206ada5b42fb:0x5af4b8bc58e69e36?sa=X&ved=2ahUKEwi18tCepcmBAxUEr5UCHU2ACpgQ9Rd6BAhUEAA&ved=2ahUKEwi18tCepcmBAxUEr5UCHU2ACpgQ9Rd6BAhnEAQ'>Matriz N. Sra. da Piedade - R. Lima Duarte, 39 - Centro, Barbacena - MG </a></Subtitle>
           <Subtitle>Contamos com sua presença.</Subtitle>
           <Divider src={dividerImage}/>
           <Subtitle>Por gentileza, confirme sua presença no link <Link href="https://site.lejour.com.br/lucasebeatriz">Confirmar presença</Link>.</Subtitle>
